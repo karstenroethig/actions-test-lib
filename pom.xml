@@ -189,7 +189,7 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub Packages</name>
-			<url>https://maven.pkg.github.com/karstenroethig/actions-test</url>
+			<url>https://maven.pkg.github.com/karstenroethig/actions-test-lib</url>
 		</repository>
 	</distributionManagement>
 
