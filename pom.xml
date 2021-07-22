@@ -7,7 +7,7 @@
 
 	<groupId>karstenroethig.actions-test-lib</groupId>
 	<artifactId>actions-test-lib</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
 	<name>Actions Test</name>
